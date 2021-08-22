@@ -1,7 +1,0 @@
-C:\Users\Vlad\source\repos\StructFile\StructFile\bin\Debug\StructFile.exe.config
-C:\Users\Vlad\source\repos\StructFile\StructFile\bin\Debug\StructFile.exe
-C:\Users\Vlad\source\repos\StructFile\StructFile\bin\Debug\StructFile.pdb
-C:\Users\Vlad\source\repos\StructFile\StructFile\obj\Debug\StructFile.csprojAssemblyReference.cache
-C:\Users\Vlad\source\repos\StructFile\StructFile\obj\Debug\StructFile.csproj.CoreCompileInputs.cache
-C:\Users\Vlad\source\repos\StructFile\StructFile\obj\Debug\StructFile.exe
-C:\Users\Vlad\source\repos\StructFile\StructFile\obj\Debug\StructFile.pdb
